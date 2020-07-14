@@ -1,5 +1,5 @@
 # DevOpsProject
- # **Learning objectives**
+ ## # **Learning objectives**
 - Writing your first Dockerfile
 - Using Docker Compose
 - Testing your app with RSpec, Capybara, and Selenium
